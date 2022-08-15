@@ -1,1 +1,1 @@
-# solving_NP_problems_with_variational_quantum_eigensolver
+# solving_the_pertitioning_problem_with_variational_quantum_eigensolver
