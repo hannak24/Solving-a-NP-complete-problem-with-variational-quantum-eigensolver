@@ -1,1 +1,2 @@
 # solving_the_pertitioning_problem_with_variational_quantum_eigensolver
+https://docs.google.com/viewer?url=${https://github.com/hannak24/solving_the_partitioning_problem_with_variational_quantum_eigensolver/raw/main/VQE_and_NP_Problems_on_Multiple_Quantum_Platforms_Project_Summary.pdf}
